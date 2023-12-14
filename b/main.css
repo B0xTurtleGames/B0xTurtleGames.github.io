@@ -1,6 +1,6 @@
 body, html 
 { 
-background: linear-gradient(to bottom,#0000ff,#00d4ff);
+background: linear-gradient(to bottom, rgba(16,65,173,1) 29%, rgba(0,212,255,1) 100%);
 background-repeat: no-repeat;
 background-attachment: fixed;
 margin: 0;
