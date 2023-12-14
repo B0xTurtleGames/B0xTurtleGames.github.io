@@ -1,7 +1,16 @@
-﻿body, html 
+body, html 
 { 
+background: linear-gradient(to bottom,#0000ff,#008bff);
+background-repeat: no-repeat;
+background-attachment: fixed;
 margin: 0;
-height: 100%; 
+/*height: 100%; */
+height: 100%;
 width: 100%; 
-cursor:url(https://i.postimg.cc/0NyfsFdN/pixil-frame-0-7.png), auto;
+padding: 0;
+cursor:url(https://i.postimg.cc/KvSw4f0x/pixil-frame-0-6.png), auto;
 }
+svg{
+  display: block;
+}
+
