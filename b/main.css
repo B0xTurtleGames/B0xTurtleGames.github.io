@@ -1,6 +1,6 @@
 body, html 
 { 
-background: linear-gradient(to bottom,#0000ff,#008bff);
+background: linear-gradient(to bottom,#1a1a1a,#8b8b8b);
 background-repeat: no-repeat;
 background-attachment: fixed;
 margin: 0;
@@ -12,3 +12,4 @@ cursor:url(https://i.postimg.cc/KvSw4f0x/pixil-frame-0-6.png), auto;
 svg{
   display: block;
 }
+
